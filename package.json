@@ -6,7 +6,7 @@
     "license": "Apache License 2.0",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/tachyon1337/elliptical-nodebind.git"
     },
     "dependencies":{
         "NodeBind":"git+https://github.com/tachyon1337/NodeBind.git"
